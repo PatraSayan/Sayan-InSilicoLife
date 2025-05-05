@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sayan-InSilicoLife
+- 👋 Hi, I’m Sayan Patra
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning and Computational Biology.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to get PhD in Computational Biology.
